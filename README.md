@@ -49,5 +49,4 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 <img width="1567" height="825" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/9d95170a-aa13-40cc-9b75-b3ccf6598036" />
 
 **RESULTS**
-<img width="1567" height="831" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/7d32aa3c-acdb-45f7-bc97-d7d9be07736c" />
-
+Thus the JK FLIPFLOP circuits are designed and the truth tables is verified using Quartus software.
